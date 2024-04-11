@@ -162,7 +162,7 @@ namespace SnakeGame
             Console.SetCursorPosition(width / 2 - 8, height / 2 + 1);
             Console.Write($"Score: {score}");
             Console.SetCursorPosition(0, height + 1);
-
+            //comentario
         }
         static void NomUser()
         {
